@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">To_Do_Application</string>
+    <string name="hello">Hello</string>
+    <string name="john">John</string>
+    <string name="search_elements">Search elements</string>
+    <string name="to_do">To-do</string>
+    <string name="timer">Timer</string>
+    <string name="goals">Goals</string>
+    <string name="progress">Progress</string>
+    <string name="save">Save</string>
+    <string name="new_task">New Task</string>
+    <string name="tasks">Tasks</string>
+    <string name="todo">TODO</string>
+    <string name="this_is_a_sample_task">This is a Sample Task</string>
+    <string name="goal_description">Goal Description</string>
+</resources>
